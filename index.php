@@ -36,10 +36,10 @@
                 <?php
 
 
-            $server = "localhost";
-            $username = "root";
-            $password = "";
-            $dbname = "curd";
+            $server = "db4free.net";
+            $username = "rootakashv";
+            $password = "c4a532f9";
+            $dbname = "myphpdb";
 
             $con = mysqli_connect($server,$username,$password,$dbname); 
             
@@ -86,10 +86,10 @@ if(isset($_POST['submit']))
 {
       //database connection
 
-            $server = "localhost";
-            $username = "root";
-            $password = "";
-            $dbname = "curd";
+            $server = "db4free.net";
+            $username = "rootakashv";
+            $password = "c4a532f9";
+            $dbname = "myphpdb";
 
             $con = mysqli_connect($server,$username,$password,$dbname);
 
